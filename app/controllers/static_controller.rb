@@ -1,7 +1,5 @@
 class StaticController < ApplicationController
-  layout "home"
-
-  def home
-    render :home
-  end
+def home
+  render :home
+ end
 end
