@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  
+
   get 'store_admin/admin'
   get 'static/home'
 
